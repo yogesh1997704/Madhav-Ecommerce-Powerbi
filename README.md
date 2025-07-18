@@ -48,7 +48,7 @@ Files included in this repository:
 - Donut Chart: Category-wise distribution
 - Bar Chart: Sub-Category Quantity
 
-![Dashboard Screenshot](images/dashboard_screenshot.jpg)
+!Dashboard Screenshot(images/dashboard_screenshot.jpg)
 
 ## 🧮 DAX Measures
 ```DAX
