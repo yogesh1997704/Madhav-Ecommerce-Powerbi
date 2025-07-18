@@ -48,7 +48,7 @@ Files included in this repository:
 - Donut Chart: Category-wise distribution
 - Bar Chart: Sub-Category Quantity
 
----
+![Dashboard Screenshot](images/dashboard_screenshot.jpg)
 
 ## 🧮 DAX Measures
 ```DAX
@@ -57,6 +57,6 @@ Total Profit = SUM(Details[Profit])
 Total Quantity = SUM(Details[Quantity])
 Avg Order Value = DIVIDE([Total Amount], DISTINCTCOUNT(Orders[Order ID]))
 # Madhav Ecommerce Sales Dashboard (Power BI)
+
 ---
 
-## ![Dashboard Screenshot](images/dashboard_screenshot.jpg)
